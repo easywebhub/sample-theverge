@@ -8,8 +8,13 @@
 
 > http://www.theverge.com/2016/11/1/13486596/trump-russia-alfabank-server-hotline-connection-debunk
 
-### Publish at setting time
+### 404 page
+> github 404 page https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/
 
+### Publish at future:
+
+- before publicTime:  redirect to 404 page using JS scripts
+- 
 
 ### By author
 
