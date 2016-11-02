@@ -1,5 +1,7 @@
 # sample clone of http://www.theverge.com
 
+`CNAME: theverge.easywebhub.com`
+
 ### Multiple level of Categories
 
 ### 2 type of detail pages
